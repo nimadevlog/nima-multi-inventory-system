@@ -1,4 +1,3 @@
-# ruff: noqa: E402
 import asyncio
 import sys
 from logging.config import fileConfig
